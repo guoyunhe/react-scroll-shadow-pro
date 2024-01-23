@@ -45,6 +45,9 @@
   "stylelint": {
     "extends": "stylelint-config-rive"
   },
+  "dependencies": {
+    "classnames": "^2.5.1"
+  },
   "devDependencies": {
     "@mdx-js/react": "^3.0.0",
     "@testing-library/react": "^14.1.2",
@@ -64,8 +67,5 @@
     "doc": {
       "basename": "/react-scroll-shadow-pro/"
     }
-  },
-  "dependencies": {
-    "classnames": "^2.5.1"
   }
 }
