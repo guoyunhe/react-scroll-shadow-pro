@@ -1,0 +1,33 @@
+.react-scroll-shadow-pro {
+  overflow: hidden auto;
+}
+
+.react-scroll-shadow-pro-top,
+.react-scroll-shadow-pro-bottom {
+  position: sticky;
+  z-index: 1;
+  pointer-events: none;
+  overflow: visible;
+  height: 0;
+  width: 100%;
+}
+
+.react-scroll-shadow-pro-top {
+  top: 0;
+}
+
+.react-scroll-shadow-pro-top-shadow {
+  background: radial-gradient(farthest-side at 50% 0%, #0003, #0000) center top;
+}
+
+.react-scroll-shadow-pro-bottom {
+  bottom: 0;
+}
+
+.react-scroll-shadow-pro-bottom-shadow {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background: radial-gradient(farthest-side at 50% 100%, #0003, #0000) center
+    bottom;
+}
