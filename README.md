@@ -2,6 +2,8 @@
 
 Show shadow for hidden content in scrollable area.
 
+![Screenshot](./screenshot.png)
+
 ```jsx device="mobile"
 import { ScrollShadow } from 'react-scroll-shadow-pro';
 import { LoremIpsum } from 'react-lorem-ipsum';
