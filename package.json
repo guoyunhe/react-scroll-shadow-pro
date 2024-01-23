@@ -2,7 +2,15 @@
   "name": "react-scroll-shadow-pro",
   "version": "1.0.0",
   "description": "Show shadow for hidden content in scrollable area",
-  "keywords": [],
+  "keywords": [
+    "react",
+    "component",
+    "scroll",
+    "shadow",
+    "experience",
+    "animation",
+    "transition"
+  ],
   "homepage": "https://github.com/guoyunhe/react-scroll-shadow-pro#readme",
   "bugs": {
     "url": "https://github.com/guoyunhe/react-scroll-shadow-pro/issues"
