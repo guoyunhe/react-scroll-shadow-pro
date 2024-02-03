@@ -67,7 +67,7 @@
     "react-doc-ui": "^2.2.1",
     "react-dom": "^18.2.0",
     "react-lorem-ipsum": "^1.4.10",
-    "rive": "^2.0.19",
+    "rive": "^2.0.21",
     "typescript": "^5.3.3"
   },
   "rive": {
